@@ -1,0 +1,14 @@
+{
+	Filter = {
+		Bundles = (
+			"com.newtoyinc.WordsWithFriendsPaid",
+			"com.newtoyinc.WordsWithFriendsFree",
+			"com.zynga.HangingWithFriendsPaid",
+			"com.zynga.HangingWithFriendsFree",
+			"com.zynga.HangingWithFriendsFreeiPad",
+			"com.zynga.HangingWithFriendsPaidiPad",
+			"com.newtoyinc.WordsWithFriendsFreeiPad",
+			"com.newtoyinc.WordsWithFriendsPaidiPad",
+		);
+	};
+}

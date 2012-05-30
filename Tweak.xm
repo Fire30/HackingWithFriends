@@ -35,10 +35,12 @@ BOOL shouldPause;
     //what happens when the button is hit
     - (void)alertView:(UIAlertView *)alertView didDismissWithButtonIndex:(NSInteger)buttonIndex { 
         shouldPause = false;
-        if (buttonIndex == 0) //NO{
+        if (buttonIndex == 0) //NO
+        {
             chooseValue =  false;
         }
-        if (buttonIndex == 1)//YES {
+        if (buttonIndex == 1)//YES 
+        {
             chooseValue = true;
         }
             
@@ -53,8 +55,8 @@ BOOL shouldPause;
 
 - (int)isValidMove:(id)fp8
 {
-
-/*
+    
+    /*
   if i remember right...
   1= place a tile on board
   2=not valid tile placement
