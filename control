@@ -1,0 +1,9 @@
+Package: com.fire30.hackingwithfriends
+Name: Hacking With Friends
+Depends: mobilesubstrate
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Allows you to play any letters as words in Hanging With Friends and Words With Friends
+Maintainer: Fire30
+Author: Fire30
+Section: Tweaks
